@@ -1,14 +1,2 @@
-# No rrd files - should be unique to machine
-/rrd
-
-# Graphs are also unique to machine
-/graphs
-
-# Results are temporary and local
-/results
-
-# Scratch dir
-/scratch
-
 # Probe IDs are local
 probeconfig
